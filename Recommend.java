@@ -4,8 +4,8 @@ public class Recommend {
 	
 	private static int video = 0 ;
 	private static int user = 0 ;
-	static String inputFile = "d:\\transa2.txt";
-	static String outputFile = "d:\\top3.txt";
+	static String inputFile = "transa2.txt";
+	static String outputFile = "top3.txt";
 
 	public static void main(String[] args) {
 		deletefile();
