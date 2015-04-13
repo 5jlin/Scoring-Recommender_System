@@ -1,4 +1,4 @@
-# Recommender_System
+# Scoring and Recommender_System
 Apriori-like.java is the algorithm modified by Apriori
 
 some of them was based on @author Nathan Magnus, under the supervision of Howard Hamilton
