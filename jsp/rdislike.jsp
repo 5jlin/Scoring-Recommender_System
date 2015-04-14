@@ -28,4 +28,4 @@ catch(SQLException ex){
 }
 
 %>
-<meta http-equiv="refresh" content="0; url=liketxt2.jsp?videoId=<%out.print(request.getParameter("videoId"));%>&userId=<%out.print(request.getParameter("userId"));%>">
+<meta http-equiv="refresh" content="0; url=liketxt.jsp?">
